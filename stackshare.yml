@@ -10,5 +10,5 @@ apps:
   - id: app-1
     org_id: vamsee-org
     repos:
-      - url: 'https://github.com/VAMSEE-ORG/SBI'
+      - url: 'https://github.com/VAMSEE-ORG/SBI/'
       
