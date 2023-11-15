@@ -2,7 +2,7 @@ orgs:
   - id: vamsee-org
   - id: bhautik-org
   - id: dotespartoorgforpersonal
-  - id: vamsee-org
+  - id: bhautik-org
     parent_org_id: vamsee-org
   - id: dotespartoorgforpersonal
     parent_org_id: bhautik-org
