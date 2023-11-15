@@ -1,8 +1,6 @@
 orgs:
   - id: vamsee-org
   - id: bhautik-org
-  - id: org-2
-  - id: org-1
   - id: dotespartoorgforpersonal
   - id: vamsee-org
     parent_org_id: bhautik-org
