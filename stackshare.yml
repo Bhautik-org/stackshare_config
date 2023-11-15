@@ -3,10 +3,10 @@ orgs:
   - id: bhautik-org
   - id: org-2
   - id: org-1
-  - id: org-3
+  - id: dotespartoorgforpersonal
   - id: vamsee-org
     parent_org_id: bhautik-org
-  - id: org-3
+  - id: dotespartoorgforpersonal
     parent_org_id: vamsee-org
 apps:
   - id: app-1
