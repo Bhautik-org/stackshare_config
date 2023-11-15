@@ -5,13 +5,9 @@ orgs:
   - id: org-1
   - id: org-3
   - id: vamsee-org
-    parent_org_id: org-1
-  - id: bhautik-org
-    parent_org_id: org-2
-  - id: vamsee-org
     parent_org_id: bhautik-org
   - id: org-3
-    parent_org_id: vamsee-org   
+    parent_org_id: vamsee-org
 apps:
   - id: app-1
     org_id: vamsee-org
