@@ -3,11 +3,12 @@ orgs:
   - id: bhautik-org
   - id: dotespartoorgforpersonal
   - id: vamsee-org
-    parent_org_id: bhautik-org
-  - id: dotespartoorgforpersonal
     parent_org_id: vamsee-org
+  - id: dotespartoorgforpersonal
+    parent_org_id: bhautik-org
 apps:
   - id: app-1
     org_id: vamsee-org
     repos:
       - url: 'https://github.com/VAMSEE-ORG/SBI'
+
