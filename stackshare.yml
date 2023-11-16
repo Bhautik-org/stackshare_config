@@ -7,10 +7,3 @@ orgs:
     parent_org_id: vamsee-org
   - id: dotespartoorgforpersonal
     parent_org_id: org-1
-apps:
-  - id: app-1
-    org_id: vamsee-org
-    repos:
-      - url: 'https://github.com/VAMSEE-ORG/SBI/'
-      
-      
